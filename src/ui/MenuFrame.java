@@ -5,8 +5,8 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class MenuFrame extends JFrame {
-    private JButton jbtProg = new JButton("Maintain Programme");
-    private JButton jbtStud = new JButton("Maintain Student");
+    private JButton jbtProg = new JButton("Maintain Programme 234");
+    private JButton jbtStud = new JButton("Maintain Student 123");
 
     // Testing123
     public MenuFrame() {
